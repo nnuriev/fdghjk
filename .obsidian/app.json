@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Входящие",
+  "attachmentFolderPath": "90 Вложения"
+}
