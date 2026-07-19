@@ -1,0 +1,5 @@
+{"timestamp":2700,"timecode":"00:45:00","file":"00-45-00-условие-очереди.jpg","evidence":"Исходный skeleton bounded FIFO queue: Queue, NewQueue(size), Push(int), Pop() int и примеры ожидаемого порядка."}
+{"timestamp":3240,"timecode":"00:54:00","file":"00-54-00-channel-решение.jpg","evidence":"Решение кандидата через buffered chan int; программа запущена и печатает 1, 2, 3."}
+{"timestamp":3360,"timecode":"00:56:00","file":"00-56-00-первая-попытка-context.jpg","evidence":"Первая незавершённая попытка добавить context cancellation: receive из ctx.Done отделён от блокирующего send."}
+{"timestamp":3480,"timecode":"00:58:00","file":"00-58-00-ошибка-default.jpg","evidence":"Промежуточный ошибочный select с default: после выбора default выполнение блокируется на send и больше не слушает cancellation."}
+{"timestamp":3600,"timecode":"01:00:00","file":"01-00-00-cancellable-send.jpg","evidence":"Итоговый select одновременно ждёт ctx.Done() и готовность send q.ints <- v; это делает блокирующий Push отменяемым."}

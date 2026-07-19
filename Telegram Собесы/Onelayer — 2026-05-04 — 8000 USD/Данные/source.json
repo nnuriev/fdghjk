@@ -1,0 +1,17 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 11081,
+  "message_url": "https://t.me/c/2799686030/11081",
+  "published_utc": "2026-05-04T08:29:59+00:00",
+  "caption_company": "Onelayer",
+  "folder_company_normalized": "Onelayer",
+  "caption_compensation": "8000 USD",
+  "media_filename": "onelayer (2)_water_3.mp4",
+  "media_size_bytes": 625444684,
+  "duration_seconds": 3766.7626953125,
+  "video_width": 3024,
+  "video_height": 1964,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Onelayer.",
+  "caption_timeline_warning": "Таймкоды подписи после середины записи не совпадают с файлом: live coding указан как 00:53:51, но фактически начинается около 00:44:35; последний таймкод 01:11:22 выходит за реальную длительность 01:02:46.763."
+}

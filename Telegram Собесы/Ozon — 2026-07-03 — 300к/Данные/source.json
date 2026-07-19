@@ -1,0 +1,14 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 12385,
+  "message_url": "https://t.me/c/2799686030/12385",
+  "published_utc": "2026-07-03",
+  "caption_company": "Ozon",
+  "caption_compensation": "300к",
+  "media_filename": "ОЗОН Go 330_water_3.mp4",
+  "media_size_bytes": 1414053289,
+  "duration_seconds": 8527.5947,
+  "declared_result": "отказ",
+  "selection_reason": "В подписи явно указан #Go и собеседование Go.",
+  "note": "Сумма 300к взята из подписи. Имя медиафайла содержит 330; источник не объясняет расхождение."
+}

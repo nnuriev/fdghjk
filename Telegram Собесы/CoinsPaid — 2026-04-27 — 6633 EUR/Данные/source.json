@@ -1,0 +1,17 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10925,
+  "message_url": "https://t.me/c/2799686030/10925",
+  "published_utc": "2026-04-27T08:38:31+00:00",
+  "caption_company": "CoinsPaid",
+  "folder_company_normalized": "CoinsPaid",
+  "caption_compensation_raw": "6633€",
+  "caption_compensation_normalized": "6633 EUR",
+  "media_filename": "@go_go_dev ом_оффер Coins Paid_water.mp4",
+  "media_size_bytes": 1211096345,
+  "duration_seconds": 7323.029296875,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в CoinsPaid."
+}

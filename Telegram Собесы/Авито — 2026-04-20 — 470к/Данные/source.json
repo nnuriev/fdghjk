@@ -1,0 +1,22 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10776,
+  "message_url": "https://t.me/c/2799686030/10776",
+  "published_utc": "2026-04-20T09:05:31+00:00",
+  "caption_company": "Авито",
+  "folder_company_normalized": "Авито",
+  "language": "Golang",
+  "caption_compensation_raw": "470 000 руб.",
+  "caption_compensation_normalized": "470к",
+  "declared_result": "оффер",
+  "media_filename": "@dubter ом_оффер Авито_water_2.mp4",
+  "mime_type": "video/mp4",
+  "media_size_bytes": 802141382,
+  "duration_seconds": 6601.94140625,
+  "video_width": 1670,
+  "video_height": 1080,
+  "transcript_segments": 2341,
+  "transcription_locale": "ru-RU",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Авито.",
+  "checked_at": "2026-07-18"
+}

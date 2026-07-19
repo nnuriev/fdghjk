@@ -1,0 +1,16 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10930,
+  "message_url": "https://t.me/c/2799686030/10930",
+  "published_utc": "2026-04-27T08:38:45+00:00",
+  "caption_company": "Ennabl",
+  "folder_company_normalized": "Ennabl",
+  "caption_compensation": "6150 EUR",
+  "media_filename": "@kuzmin_michel ом_оффер_water.mp4",
+  "media_size_bytes": 561580436,
+  "duration_seconds": 3390.3786621094,
+  "video_width": 1664,
+  "video_height": 1080,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Ennabl."
+}

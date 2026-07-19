@@ -1,0 +1,17 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10929,
+  "message_url": "https://t.me/c/2799686030/10929",
+  "published_utc": "2026-04-27T08:38:42+00:00",
+  "caption_company": "Remotely",
+  "folder_company_normalized": "Remotely",
+  "caption_compensation_raw": "7125$ руб",
+  "caption_compensation_normalized": "7125 USD",
+  "media_filename": "@DmitriyS1 ом_оффер_water.mp4",
+  "media_size_bytes": 549517975,
+  "duration_seconds": 3313.5358886719,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Remotely."
+}

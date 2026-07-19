@@ -1,0 +1,17 @@
+{"timestamp":1352,"timecode":"00:22:32","file":"01-slices-condition-00-22-32.jpg","evidence":"Полное условие задачи про два append к nums[0:2]; ChatGPT открыт рядом с условием."}
+{"timestamp":1450,"timecode":"00:24:10","file":"02-slices-answer-00-24-10.jpg","evidence":"Видно условие и ответ ChatGPT [1 2 4], [1 2 5], второй результат ошибочен."}
+{"timestamp":1900,"timecode":"00:31:40","file":"03-defer-condition-00-31-40.jpg","evidence":"Полное условие задачи с value receiver и defer x.S()."}
+{"timestamp":2233,"timecode":"00:37:13","file":"04-defer-closure-00-37-13.jpg","evidence":"Вариант с closure; рядом открыт разбор ChatGPT."}
+{"timestamp":2350,"timecode":"00:39:10","file":"05-monotonic-condition-00-39-10.jpg","evidence":"Определение монотонности и пять примеров входа/результата."}
+{"timestamp":2600,"timecode":"00:43:20","file":"06-monotonic-code-00-43-20.jpg","evidence":"Незавершённая реализация кандидата с двумя флагами."}
+{"timestamp":2800,"timecode":"00:46:40","file":"07-scaling-condition-00-46-40.jpg","evidence":"Полное условие открытого вопроса о масштабировании сервиса B."}
+{"timestamp":3350,"timecode":"00:55:50","file":"08-http-condition-00-55-50.jpg","evidence":"Полное условие последовательной проверки набора URL."}
+{"timestamp":3700,"timecode":"01:01:40","file":"09-http-sequential-01-01-40.jpg","evidence":"Решение с defer resp.Body.Close() непосредственно в цикле."}
+{"timestamp":4200,"timecode":"01:10:00","file":"10-http-parallel-01-10-00.jpg","evidence":"Параллельное решение с WaitGroup и каналом; ChatGPT анализирует скриншот."}
+{"timestamp":5250,"timecode":"01:27:30","file":"11-cache-condition-01-27-30.jpg","evidence":"Полное условие и интерфейс in-memory cache."}
+{"timestamp":5650,"timecode":"01:34:10","file":"12-cache-code-01-34-10.jpg","evidence":"Реализация map[string]string с sync.RWMutex."}
+{"timestamp":6000,"timecode":"01:40:00","file":"13-decode-telegram-hint-01-40-00.jpg","evidence":"Telegram-окно от Никиты Рулика поверх ChatGPT показывает почти полную реализацию decodeString."}
+{"timestamp":6959,"timecode":"01:55:59","file":"14-decode-condition-code-01-55-59.jpg","evidence":"Полное условие decode string, примеры и итоговая реализация кандидата."}
+{"timestamp":7300,"timecode":"02:01:40","file":"15-top-k-code-02-01-40.jpg","evidence":"Условие Top K frequent elements и bucket-реализация."}
+{"timestamp":7716,"timecode":"02:08:36","file":"16-list-condition-02-08-36.jpg","evidence":"Полное условие разворота односвязного списка."}
+{"timestamp":7850,"timecode":"02:10:50","file":"17-list-code-02-10-50.jpg","evidence":"Начало итеративной реализации prev/curr/next; рядом готовый разбор ChatGPT."}

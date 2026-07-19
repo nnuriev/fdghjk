@@ -1,0 +1,12 @@
+{"timestamp":290,"timecode":"00:04:50","file":"01-interface-typed-nil-00-04-50.jpg","evidence":"Первая задача после разбора: интерфейс Seller, nil-указатель *Lamoda внутри interface и type assertion seller.(*Lamoda)."}
+{"timestamp":825,"timecode":"00:13:45","file":"02-order-options-original-00-13-45.jpg","evidence":"Исходная последовательная BuildOrderOptions с тремя независимыми HTTP-вызовами и fetchUrl."}
+{"timestamp":1380,"timecode":"00:23:00","file":"03-order-options-errgroup-attempt-00-23-00.jpg","evidence":"Промежуточная попытка кандидата: только первый запрос помещён в errgroup; два остальных остались последовательными, а внешний err не определён."}
+{"timestamp":1900,"timecode":"00:31:40","file":"04-unbuffered-channel-close-00-31-40.jpg","evidence":"Задача с unbuffered channel: отправитель блокируется, main закрывает channel после sleep, затем range пытается читать."}
+{"timestamp":1960,"timecode":"00:32:40","file":"05-buffered-channel-fix-00-32-40.jpg","evidence":"Исправление кандидата заменой make(chan int) на make(chan int, 1); значение успевает попасть в buffer до close."}
+{"timestamp":2040,"timecode":"00:34:00","file":"06-concurrent-map-00-34-00.jpg","evidence":"Вторая часть третьей задачи: бесконечные конкурентные read и write над обычной map[string]int."}
+{"timestamp":2850,"timecode":"00:47:30","file":"07-semaphore-leak-00-47-30.jpg","evidence":"Четвёртая задача целиком: десять goroutines, semaphore ёмкости три, unbuffered results channel и ранний return по error."}
+{"timestamp":3380,"timecode":"00:56:20","file":"08-sql-schema-00-56-20.jpg","evidence":"Схемы customer и cart_item, тестовые строки и первое SQL-условие."}
+{"timestamp":4150,"timecode":"01:09:10","file":"09-sql-queries-01-09-10.jpg","evidence":"Запросы кандидата для всех клиентов, top-10 по стоимости и покупателей из России с корзиной не менее 1000 рублей."}
+{"timestamp":4710,"timecode":"01:18:30","file":"10-sql-indexes-01-18-30.jpg","evidence":"Финальные SQL-запросы и две задачи на Hash и составной B-tree index (sku, country, customer_id)."}
+{"timestamp":4800,"timecode":"01:20:00","file":"11-balance-original-01-20-00.jpg","evidence":"Исходная функция withdrawBalance: REAL/float32, SELECT-check-UPDATE-SELECT под READ COMMITTED."}
+{"timestamp":5200,"timecode":"01:26:40","file":"12-balance-atomic-update-01-26-40.jpg","evidence":"Предложенный atomic conditional UPDATE с balance >= amount и RETURNING balance."}

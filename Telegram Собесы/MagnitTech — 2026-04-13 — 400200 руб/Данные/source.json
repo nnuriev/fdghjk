@@ -1,0 +1,19 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10618,
+  "message_url": "https://t.me/c/2799686030/10618",
+  "published_utc": "2026-04-13T12:14:20+00:00",
+  "caption_company": "MagnitTech",
+  "folder_company_normalized": "MagnitTech",
+  "caption_compensation_raw": "400 200 рублей",
+  "caption_compensation_normalized": "400200 руб",
+  "media_filename": "@Maxione ом_оффер Магнит Омн и_water_2.mp4",
+  "media_size_bytes": 1022243675,
+  "duration_seconds": 6185.3012695312,
+  "video_width": 1920,
+  "video_height": 1080,
+  "transcript_segments": 2542,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указаны #Golang Senior и MagnitTech; заголовок называет собеседование Golang Senior.",
+  "checked_at": "2026-07-18"
+}

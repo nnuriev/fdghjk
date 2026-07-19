@@ -1,0 +1,8 @@
+{"timestamp":3215,"timecode":"00:53:35","file":"01-slices-condition-00-53-35.jpg","evidence":"Полное исходное условие первой задачи: append к одному slice x в переменные y и z."}
+{"timestamp":3400,"timecode":"00:56:40","file":"02-slices-reasoning-00-56-40.jpg","evidence":"Промежуточные пометки кандидата о len, cap и backing array; рассуждение ещё не завершено."}
+{"timestamp":3717,"timecode":"01:01:57","file":"03-slices-final-01-01-57.jpg","evidence":"Финальные комментарии к первой задаче и ответ [0 1 2 4] для обоих slice."}
+{"timestamp":3750,"timecode":"01:02:30","file":"04-pointer-condition-01-02-30.jpg","evidence":"Полное исходное условие второй задачи: локальное присваивание p = &v внутри changePointer."}
+{"timestamp":3857,"timecode":"01:04:17","file":"05-pointer-correction-01-04-17.jpg","evidence":"Исправление функции интервьюером на *p = v, которое действительно меняет значение вызывающей стороны."}
+{"timestamp":3890,"timecode":"01:04:50","file":"06-interface-condition-01-04-50.jpg","evidence":"Полное условие третьей задачи про nil interface и typed nil *errorString."}
+{"timestamp":4000,"timecode":"01:06:40","file":"07-interface-reasoning-01-06-40.jpg","evidence":"Промежуточное обсуждение динамического типа и значения interface."}
+{"timestamp":4140,"timecode":"01:09:00","file":"08-interface-candidate-answers-01-09-00.jpg","evidence":"На экране видны ответы кандидата true для первых трёх вызовов; второй и третий ответы неверны."}

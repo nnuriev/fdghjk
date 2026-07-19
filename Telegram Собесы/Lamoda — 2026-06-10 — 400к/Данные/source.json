@@ -1,0 +1,16 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 11880,
+  "message_url": "https://t.me/c/2799686030/11880",
+  "published_utc": "2026-06-10T15:06:58+00:00",
+  "caption_company": "Lamода",
+  "folder_company_normalized": "Lamoda",
+  "caption_compensation": "400к",
+  "media_filename": "Lamoda ! Go! 400_water.mp4",
+  "media_size_bytes": 813612350,
+  "duration_seconds": 6246.9975585938,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "отказ",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Lamoda."
+}

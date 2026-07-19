@@ -1,0 +1,17 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 10778,
+  "message_url": "https://t.me/c/2799686030/10778",
+  "published_utc": "2026-04-20T09:10:34+00:00",
+  "caption_company": "ООО ШИФТ",
+  "folder_company_normalized": "ШИФТ",
+  "caption_compensation_raw": "500к",
+  "caption_compensation_normalized": "500к",
+  "media_filename": "ООО ШИФТ_water.mp4",
+  "media_size_bytes": 1028334187,
+  "duration_seconds": 5585.0668945312,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "оффер",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в ООО «ШИФТ»."
+}

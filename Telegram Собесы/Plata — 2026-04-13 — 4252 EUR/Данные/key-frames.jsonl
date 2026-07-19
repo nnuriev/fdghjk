@@ -1,0 +1,7 @@
+{"timestamp":630,"timecode":"00:10:30","file":"01-filter-condition-00-10-30.jpg","evidence":"Точное условие задачи об исключении innocents из отсортированного suspects и два примера."}
+{"timestamp":1180,"timecode":"00:19:40","file":"02-filter-solution-00-19-40.jpg","evidence":"Итоговое решение кандидата через map[int]struct{} и отдельный result."}
+{"timestamp":1960,"timecode":"00:32:40","file":"03-channel-condition-00-32-40.jpg","evidence":"Исходный channel-код с 100 producers, rand.Int, range и отсутствующим close."}
+{"timestamp":2320,"timecode":"00:38:40","file":"04-channel-blocking-draft-00-38-40.jpg","evidence":"Промежуточный ошибочный вариант: Wait до запуска consumer, что блокирует producers после заполнения buffer."}
+{"timestamp":2460.016666666667,"timecode":"00:41:00","file":"05-channel-fixed-lifecycle-00-41-00.jpg","evidence":"Исправленный lifecycle: Wait и close вынесены в отдельную goroutine, consumer читает конкурентно."}
+{"timestamp":2940.016666666667,"timecode":"00:49:00","file":"06-code-review-original-00-49-00.jpg","evidence":"Исходный код OrderStatusHistoryStore: sql.Open в методе, fmt.Sprintf SQL и fire-and-forget Exec."}
+{"timestamp":3600,"timecode":"01:00:00","file":"07-code-review-final-01-00-00.jpg","evidence":"Итоговый вариант кандидата с *sql.DB, ExecContext, placeholders, error return и экспортируемым методом."}

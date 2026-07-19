@@ -1,0 +1,18 @@
+{
+  "message_id": 10617,
+  "telegram_url": "https://t.me/c/2799686030/10617",
+  "published_utc": "2026-04-13T12:14:05+00:00",
+  "company": "Plata",
+  "language": "Golang",
+  "claimed_result": "Оффер",
+  "claimed_offer": "4252 EUR",
+  "media_filename": "@toby3d ом_оффер Plata_water.mp4",
+  "media_size_bytes": 895319859,
+  "mime_type": "video/mp4",
+  "duration_seconds": 5402.9868164062,
+  "video_width": 1728,
+  "video_height": 1080,
+  "transcript_segments": 2114,
+  "transcript_engine": "macOS SpeechAnalyzer, ru_RU",
+  "verified_at": "2026-07-18"
+}

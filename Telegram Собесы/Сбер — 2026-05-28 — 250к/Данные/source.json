@@ -1,0 +1,16 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 11550,
+  "message_url": "https://t.me/c/2799686030/11550",
+  "published_utc": "2026-05-28T15:36:55+00:00",
+  "caption_company": "$БЕР",
+  "folder_company_normalized": "Сбер",
+  "caption_compensation": "250к",
+  "media_filename": "0428 (1)_water.mp4",
+  "media_size_bytes": 562093144,
+  "duration_seconds": 2247.7653808594,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "отказ",
+  "selection_reason": "В подписи явно указан #Golang; заголовок называет собеседование Golang в Сбере."
+}

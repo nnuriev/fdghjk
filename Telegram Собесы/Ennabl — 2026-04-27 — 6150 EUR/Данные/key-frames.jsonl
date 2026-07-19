@@ -1,0 +1,5 @@
+{"timestamp":900,"timecode":"00:15:00","file":"00-15-00-архитектура-проектов.jpg","evidence":"Итоговая схема project deep dive: FE, GW, Captcha, Security, 2FA и referral-контур Kafka, Processing, Loyalty, Transaction, Stats."}
+{"timestamp":1260,"timecode":"00:21:00","file":"00-21-00-условие-парковки.jpg","evidence":"Текст задания на экране: n/m/l мест, методы park_car и return_car, иллюстративные количества 10/4/2."}
+{"timestamp":1980,"timecode":"00:33:00","file":"00-33-00-основная-логика.jpg","evidence":"Первая реализация: CarSize, available_spots и ручные ветви smallest-fit allocation."}
+{"timestamp":2220,"timecode":"00:37:00","file":"00-37-00-итоговое-решение.jpg","evidence":"Финальная видимая реализация park_car/return_car; после записи active_tickets отсутствует return token."}
+{"timestamp":2520,"timecode":"00:42:00","file":"00-42-00-обобщение-по-размерам.jpg","evidence":"Предложенное устранение повторяющихся ветвей через упорядоченный список совместимых размеров."}

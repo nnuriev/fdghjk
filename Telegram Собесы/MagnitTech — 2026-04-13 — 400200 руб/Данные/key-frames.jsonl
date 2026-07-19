@@ -1,0 +1,5 @@
+{"timestamp":2020,"timecode":"00:33:40","file":"01-condition-00-33-40.jpg","evidence":"Исходный экран: testSearcher(ctx, name) возвращает duration/error; getFastestSearcher должен вернуть имя самого быстрого поисковика и время ответа."}
+{"timestamp":2400,"timecode":"00:40:00","file":"02-generator-draft-00-40-00.jpg","evidence":"Первый draft с генератором имён и необоснованным циклом по connMaxLimit; фиксирует раннюю модель решения."}
+{"timestamp":3000,"timecode":"00:50:00","file":"03-channel-aggregation-00-50-00.jpg","evidence":"Промежуточный вариант на errgroup, unbuffered result channel и отдельной goroutine-агрегаторе; видны конкурирующие lifecycles."}
+{"timestamp":3600,"timecode":"01:00:00","file":"04-final-code-top-01-00-00.jpg","evidence":"Финальный верх решения: errgroup.WithContext, SetLimit, вызов testSearcher и отправка результата с select по context."}
+{"timestamp":3950,"timecode":"01:05:50","file":"05-final-code-bottom-01-05-50.jpg","evidence":"Финальный нижний фрагмент: агрегатор обновляет минимум, но его завершение не включено в errgroup; maxRespTime остаётся неиспользованной переменной."}

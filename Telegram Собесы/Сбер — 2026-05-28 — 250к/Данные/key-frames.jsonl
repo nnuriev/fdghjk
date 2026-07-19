@@ -1,0 +1,7 @@
+{"timestamp":390,"timecode":"00:06:30","file":"01-goroutine-original-00-06-30.jpg","evidence":"Исходная задача: три goroutines внутри range без ожидания завершения; редактор явно показывает Go 1.23."}
+{"timestamp":450,"timecode":"00:07:30","file":"02-goroutine-waitgroup-00-07-30.jpg","evidence":"Исправление кандидата через sync.WaitGroup: Add перед запуском, Done в defer, Wait после цикла."}
+{"timestamp":985,"timecode":"00:16:25","file":"03-string-range-00-16-25.jpg","evidence":"Задача range по строке «гошка!» с печатью единственной переменной index."}
+{"timestamp":1130,"timecode":"00:18:50","file":"04-slice-task-original-00-18-50.jpg","evidence":"Исходная задача со slice len=0 cap=1000, append трёх значений, process и reslice до шести элементов."}
+{"timestamp":1450,"timecode":"00:24:10","file":"05-slice-task-corrected-00-24-10.jpg","evidence":"Итоговые комментарии после разбора: [1,2,3], затем [0,0,0], затем [0,0,0,0,0,0]."}
+{"timestamp":1540,"timecode":"00:25:40","file":"06-nil-map-range-00-25-40.jpg","evidence":"Задача range по nil map map[string]struct{} с последующей печатью «Всё!»."}
+{"timestamp":1630,"timecode":"00:27:10","file":"07-hash-choice-00-27-10.jpg","evidence":"Выбор между псевдо-hash1, возвращающей случайное значение, и константной hash2 для demo map."}

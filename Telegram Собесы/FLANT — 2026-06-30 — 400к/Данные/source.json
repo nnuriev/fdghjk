@@ -1,0 +1,16 @@
+{
+  "channel": "ОМ: Собеседования",
+  "message_id": 12330,
+  "message_url": "https://t.me/c/2799686030/12330",
+  "published_utc": "2026-06-30T15:29:34+00:00",
+  "caption_company": "FL@NT",
+  "folder_company_normalized": "FLANT",
+  "caption_compensation": "400к",
+  "media_filename": "тех собес флант Golang backend 400_water.mp4",
+  "media_size_bytes": 768570539,
+  "duration_seconds": 4633.408203125,
+  "video_width": 1920,
+  "video_height": 1080,
+  "declared_result": "отказ",
+  "selection_reason": "В подписи явно указаны #Golang и #Backend; заголовок называет собеседование Golang."
+}

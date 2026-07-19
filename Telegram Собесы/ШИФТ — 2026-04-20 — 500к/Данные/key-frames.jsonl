@@ -1,0 +1,5 @@
+{"timestamp":2110,"timecode":"00:35:10","file":"01-slices-basic-00-35-10.jpg","evidence":"Первое условие на экране: пять срезов x, y, z, d, e над одним исходным срезом; требуется назвать вывод."}
+{"timestamp":2290,"timecode":"00:38:10","file":"02-slices-shared-00-38-10.jpg","evidence":"Второе условие и записанный разбор: изменения x[1], y[0] и z[1] проходят в общий backing array."}
+{"timestamp":2330,"timecode":"00:38:50","file":"03-slices-append-00-38-50.jpg","evidence":"Третье условие: append в y с len=2 и достаточной capacity переиспользует backing array и заменяет x[2]."}
+{"timestamp":2940,"timecode":"00:49:00","file":"04-shadowing-00-49-00.jpg","evidence":"Задача на short variable declaration во внутреннем if-блоке: внутренний x затеняет внешний."}
+{"timestamp":3360,"timecode":"00:56:00","file":"05-defer-00-56-00.jpg","evidence":"Задача на порядок defer и момент вычисления аргументов: exiting 30, second 20, first 10."}
