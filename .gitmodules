@@ -1,0 +1,9 @@
+[submodule ".codex-work/deep_go-src"]
+	path = .codex-work/deep_go-src
+	url = https://github.com/Balun-courses/deep_go.git
+[submodule ".codex-work/sources/concurrency_go"]
+	path = .codex-work/sources/concurrency_go
+	url = https://github.com/Balun-courses/concurrency_go.git
+[submodule ".codex-work/sources/interview_go"]
+	path = .codex-work/sources/interview_go
+	url = https://github.com/Balun-courses/interview_go.git
